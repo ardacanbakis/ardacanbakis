@@ -33,7 +33,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacanbakis&show_icons=true&locale=en&layout=compact" alt="ardacanbakis" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacanbakis&show_icons=true&locale=en&layout=compact" alt="ardacanbakis" /></p>
 
-<p><a href="https://www.buymeacoffee.com/ardacanbakis"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardacanbakis" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/ardacanbakis"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardacanbakis" /></a></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ardacanbakis&label=Profile%20views&color=0e75b6&style=flat" alt="ardacanbakis" /> </p>
