@@ -2,23 +2,24 @@
 
 <h3 align="center">A self-thought Fullstack Web Developer </h3>   
 <h3 align="center">👨‍💻 Working remotely since 2010 🚀</h3>  
-<h3 align="center">🌱 I’m currently learning Python 🔭</h3>  
-<h3 align="center">🪵 I design and build wooden furniture as a side hustle ⚡</h3>  
+<h3 align="center">🌱 I’m currently learning Python. 🔭</h3>  
+<h3 align="center">🪵 I design and build wooden furniture as a side hustle. ⚡</h3>  
   
 <br/>  
 
-<h3 align="center"> My Skill Set  
+<h2 align="center"> My Skill Set </h3>
+<br/>  
 <table align="center"><tr><td valign="top" width="33%">
-</h3>
 
 
 ### Frontend  
 <div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,7 +50,7 @@
 
 <br/>  
 
-<h3 align="center">  Connect with me  </h3>  
+<h2 align="center">  Connect with me  </h3>  
 
 <div align="center">
 <a href="https://github.com/ardacanbakis" target="_blank">
@@ -69,11 +70,19 @@
 </a>  
 </div>  
   
+
 <br/>  
 
+
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ardacanbakis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+<p align="center">🎵🎵🎵 </p>  
+  
+<br/> 
+
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
