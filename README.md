@@ -1,33 +1,22 @@
-# <div align="center">👋 Hi, I'm Arda!
-</div>  
-  
+<h1 align="center">👋 Hi, I'm Arda! 👋</h1>  
 
-### <div align="center">A self-thought Fullstack Web Developer 
-</div>  
+<h3 align="center">A self-thought Fullstack Web Developer </h3>   
+<h3 align="center">👨‍💻 Working remotely since 2010 🚀</h3>  
+<h3 align="center">🌱 I’m currently learning Python. 🔭</h3>  
+<h3 align="center">🪵 I design and build wooden furniture as a side hustle. ⚡</h3>  
   
-
-<div align="center">👨‍💻 Working remotely since 2010 🚀</div>  
-  
-
-<div align="center">🌱 I’m currently learning Python. 🔭</div>  
-  
-
-<div align="center">🪵 I design and build wooden furniture as a side hustle. ⚡</div>  
-  
-
 <br/>  
 
-<div align="center">
-## My Skill Set  
+<h3 align="center"> My Skill Set  
 <table><tr><td valign="top" width="33%">
-</div>
+</h3>
 
 
 ### Frontend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
@@ -60,9 +49,8 @@
 
 <br/>  
 
-<div align="center">  
-## Connect with me  
-</div>  
+<h3 align="center">  Connect with me  </h3>  
+
 <div align="center">
 <a href="https://github.com/ardacanbakis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
