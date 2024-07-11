@@ -50,7 +50,7 @@
 
 <br/>  
 
-<h2 align="center">  Connect with me  </h3>  
+<h2 align="center">  Connect with me  </h2>  
 
 <div align="center">
 <a href="https://github.com/ardacanbakis" target="_blank">
@@ -74,12 +74,12 @@
 <br/>  
 
 
-## Github Stats  
+<h2 align="center"> Github Stats </h2>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ardacanbakis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<p align="center">🎵🎵🎵 </p>  
+<h2 align="center">🎵🎵🎵 </h2>  
   
 <br/> 
 
