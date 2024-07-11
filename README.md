@@ -2,8 +2,8 @@
 
 <h3 align="center">A self-thought Fullstack Web Developer </h3>   
 <h3 align="center">👨‍💻 Working remotely since 2010 🚀</h3>  
-<h3 align="center">🌱 I’m currently learning Python. 🔭</h3>  
-<h3 align="center">🪵 I design and build wooden furniture as a side hustle. ⚡</h3>  
+<h3 align="center">🌱 I’m currently learning Python 🔭</h3>  
+<h3 align="center">🪵 I design and build wooden furniture as a side hustle ⚡</h3>  
   
 <br/>  
 
@@ -69,23 +69,11 @@
 </a>  
 </div>  
   
-
 <br/>  
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ardacanbakis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<div align="center">🎵🎵🎵
-</div>  
-  
-
-
-
-  
-  
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
