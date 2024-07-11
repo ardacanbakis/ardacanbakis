@@ -86,7 +86,9 @@
 <br/> 
 
 
-<div align="center"><a href="https://open.spotify.com/user/11146430303" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></a></div>  
+<div align="center"><a href="https://open.spotify.com/user/11146430303" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></a>
+</div>  
 
 <br/>  
 
