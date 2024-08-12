@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Arda! 👋</h1>  
-
+<hr>
 <h3 align="center">A self-thought Fullstack Web Developer </h3>   
 <h3 align="center">👨‍💻 Working remotely since 2010 🚀</h3>  
 <h3 align="center">🌱 I’m currently learning Python. 🔭</h3>  
@@ -84,16 +84,15 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></a>
 </div>  
 
-<hr>
+<br/>  
+
+
+
+<div align="center">
+            <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ardacanbakis" data-color="#2fc0e4" data-emoji="☕"  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+            </a></div>
+<br />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ardacanbakis&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center">
-           <a href="https://www.buymeacoffee.com/ardacanbakis"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ardacanbakis&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-            </a></div>
-<br />
