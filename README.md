@@ -84,7 +84,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11146430303&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></a>
 </div>  
 
-<br/>  
+<hr>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ardacanbakis&&style=flat-square" align="center" />
@@ -94,10 +94,6 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/ardacanbakis" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
+           <a href="https://www.buymeacoffee.com/ardacanbakis"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ardacanbakis&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
             </a></div>
 <br />
