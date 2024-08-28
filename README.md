@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Arda! 👋</h1>  
 
-<h3 align="center">A self-thought Fullstack Web Developer </h3>   
+<h3 align="center">A self-thought Full-Stack Web Developer </h3>   
 <h3 align="center">👨‍💻 Working remotely since 2010 🚀</h3>  
-<h3 align="center">🌱 I’m currently learning Python. 🔭</h3>  
+<h3 align="center">🌱 I’m currently learning Quickbase and HubSpot 🔭</h3>  
 <h3 align="center">🪵 I design and build wooden furniture as a side hustle. ⚡</h3>  
   
 <br/>  
