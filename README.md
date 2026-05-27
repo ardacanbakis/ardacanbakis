@@ -84,9 +84,6 @@
 <br/>  
 
 
-<--
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ardacanbakis&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/ardacanbakis)
--->
 <hr>
 
 <div align="center">
